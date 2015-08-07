@@ -19,5 +19,5 @@ Switch to a branch
 $git checkout -b branch-name
 Create & switch to a branch
 
-$git brnach
-See all branches
+$git branch
+See all branches 
